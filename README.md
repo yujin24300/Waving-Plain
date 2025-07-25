@@ -5,6 +5,8 @@ This project implements a dynamically animated plane with wave and rotation effe
 ![](https://github.com/yujin24300/Waving-Plain/blob/main/Waving-Plain1.jpg)| ![](https://github.com/yujin24300/Waving-Plain/blob/main/Waving-Plain2.jpg)
 ---|---|
 
+## 🔁 Program Flow
+<img src="https://github.com/yujin24300/Waving-Plain/blob/main/FlowChart.jpg" width="60%"/>
 
 ## ✨ Features
 - **Checkerboard Plane**: Renders a dynamically tessellated checker-patterned plane using the `MyPlain` class, with vertices, colors, and buffers managed in C++ and drawn via OpenGL.

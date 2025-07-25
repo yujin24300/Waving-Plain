@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a dynamically animated plane with wave and rotation effects using OpenGL and GLSL shaders. The plane responds to keyboard inputs for interactive control over animation, tessellation, and wave parameters.
+![](https://github.com/yujin24300/Waving-Plain/blob/main/Waving-Plain1.jpg)|![](https://github.com/yujin24300/Waving-Plain/blob/main/Waving-Plain2.jpg)
 
 ## Features
 - **Checkerboard Plane**: Renders a dynamically tessellated checker-patterned plane using the `MyPlain` class, with vertices, colors, and buffers managed in C++ and drawn via OpenGL.
